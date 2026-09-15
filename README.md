@@ -5,7 +5,7 @@
 ### About Me 🚀
 🎓 Computer Science and Engineering student at **COEP Technological University, Pune**  
 👨‍💻 Passionate about **Frontend Development** and building clean, user-friendly Web Interfaces  
-📧 How to reach me: `shashwatvaidya@example.com`
+📧 How to reach me: `vaidyasm26.comp@coeptech.ac.in`
 
 ---
 
