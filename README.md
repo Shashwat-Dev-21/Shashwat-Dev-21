@@ -1,6 +1,6 @@
 # Hey 👋, I'm Shashwat Vaidya!
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shashwat-Vaidya)
+
 
 ### About Me 🚀
 🎓 Computer Science and Engineering student at **COEP Technological University, Pune**  
